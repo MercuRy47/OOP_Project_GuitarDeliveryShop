@@ -1,0 +1,50 @@
+G-001, Fender, CD-60S All-Mahogany, Acoustic, 4990
+G-002, Yamaha, C40, Classic, 2390
+G-003, Epiphone, Les Paul Standard, Electric, 15500
+G-004, Taylor, 214ce Grand Auditorium, Acoustic/Electric, 34800
+G-005, Gibson, SG Standard '61, Electric, 56900
+G-006, Martin, LX1 Little Martin, Acoustic, 8500
+G-007, Ibanez, AEG10II, Acoustic/Electric, 7450
+G-008, Cordoba, C3M, Classic, 4590
+G-009, Squier, Affinity Series Telecaster, Electric, 7990
+G-010, Alvarez, Artist Series AD60 Dreadnought, Acoustic, 7590
+G-011, Gretsch, G2622 Streamliner Center Block Double-Cut, Electric, 15900
+G-012, Washburn, WD10SCE, Acoustic/Electric, 6990
+G-013, Ibanez, RG550 Genesis Collection, Electric, 18900
+G-014, Yamaha, FG800 Folk, Acoustic, 3790
+G-015, Fender, Player Stratocaster, Electric, 16900
+G-016, Epiphone, DR-100, Acoustic, 4190
+G-017, Gibson, Les Paul Standard '50s, Electric, 82900
+G-018, Cordoba, C5, Classic, 5490
+G-019, Fender, American Professional II Stratocaster, Electric, 53900
+G-020, Taylor, GS Mini Mahogany, Acoustic, 11490
+G-021, Squier, Classic Vibe '70s Telecaster Thinline, Electric, 11790
+G-022, Ibanez, PF15ECE, Acoustic/Electric, 5390
+G-023, Martin, D-10E, Acoustic/Electric, 26900
+G-024, PRS, SE Custom 24, Electric, 19900
+G-025, Yamaha, CG122MCH, Classic, 4990
+G-026, Epiphone, Les Paul Studio, Electric, 13900
+G-027, Gibson, SG Standard '61 Maestro Vibrola, Electric, 56900
+G-028, Martin, LX1E Little Martin, Acoustic/Electric, 10900
+G-029, Ibanez, RG450DX, Electric, 9990
+G-030, Alvarez, Artist Series AF60 Folk, Acoustic, 6790
+G-031, Gretsch, G2420 Streamliner Hollow Body with Chromatic II, Electric, 11790
+G-032, Washburn, Apprentice G-Mini 5, Acoustic, 3190
+G-033, Ibanez, AEG50N, Acoustic/Electric, 7590
+G-034, Yamaha, Pacifica 112V, Electric, 6990
+G-035, Fender, American Ultra Stratocaster, Electric, 77900
+G-036, Taylor, 114ce Grand Auditorium, Acoustic/Electric, 19900
+G-037, Epiphone, SG Standard '61, Electric, 11400
+G-038, Gibson, J-45 Standard, Acoustic/Electric, 83900
+G-039, Cordoba, C7, Classic, 8490
+G-040, Fender, American Original '60s Jazzmaster, Electric, 65900
+G-041, Taylor, BT2 Baby Taylor, Acoustic, 7290
+G-042, Squier, Classic Vibe '60s Jazzmaster, Electric, 11900
+G-043, Ibanez, AW54CEOPN Artwood Dreadnought, Acoustic/Electric, 7990
+G-044, Martin, 000-10E Auditorium Acoustic-Electric, Acoustic/Electric, 22900
+G-045, PRS, SE Standard 24, Electric, 10900
+G-046, Yamaha, FG830 Solid Top, Acoustic, 5990
+G-047, Epiphone, Les Paul Custom Classic Pro, Electric, 23900
+G-048, Gibson, Les Paul Standard '50s P-90, Electric, 83900
+G-049, Martin, LX Black Little Martin, Acoustic, 8990
+G-050, Fender, American Performer Stratocaster, Electric, 30900
