@@ -1,6 +1,5 @@
 package Tester;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 import Delivery.DeliveryManager;
@@ -8,7 +7,6 @@ import Delivery.FastDeliveryService;
 import Delivery.NormalDeliveryService;
 import ManagerStore.Manager;
 import Product.Inventory;
-import Product.Product;
 import User.LoginForm;
 import User.PremiumUser;
 import User.RegisterForm;
@@ -20,7 +18,6 @@ public class Tester {
         String choose;
         double totalAmount = 0;
 
-        // Class
         // Class
         Inventory inventory = new Inventory();
         Manager manager = new Manager();
@@ -182,7 +179,24 @@ public class Tester {
                             System.out.print("Max: ");
                             max = kb.nextInt();
                             System.out.println("[Product Price (" + min + "-" + max + ")]");
-                            inventory.printProductByPriceRange(min, max);
+                            System.out.println("[Descending or Ascending]");
+                            System.out.print("D - Descending (Max to Min)" + "\nA - Ascending (Min to Max)" + "\nE - Exit" + "\nChoose: ");
+                            choose = kb.next();
+                            if (choose.equals("D")) {
+                                System.out.println("[Product Price (" + max + "-" + min + ")]");
+                                inventory.sortByPriceDesc().printProductByPriceRange(min, max);
+                                break;
+                            } else if (choose.equals("A")) {
+                                System.out.println("[Product Price (" + min + "-" + max + ")]");
+                                inventory.sortByPriceAsc().printProductByPriceRange(min, max);
+                                break;
+                            } else if (choose.equals("E")) {
+                                System.out.println("You have exited the program.");
+                                System.exit(0);
+                            } else {
+                                System.out.println("Invalid choice.");
+                                break;
+                            }
                             break;
                         } else if (choose.equals("E")){
                             System.out.println("You have exited the program.");
